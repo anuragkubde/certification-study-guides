@@ -1,6 +1,19 @@
-# AZ700
+# AZ-700: Designing and Implementing Microsoft Azure Networking Solutions
 
-## Resources
+- [Certification page](https://docs.microsoft.com/learn/certifications/exams/az-700)
+
+## What you're tested on
+
+- Design, Implement, and Manage Hybrid Networking (10–15%)
+
+- Design and Implement Core Networking Infrastructure (20–25%)
+
+- Design and Implement Routing (25–30%)
+
+- Secure and Monitor Networks (15–20%)
+
+- Design and Implement Private Access to Azure Services (10–15%)
+
 
 ### Theory
 
